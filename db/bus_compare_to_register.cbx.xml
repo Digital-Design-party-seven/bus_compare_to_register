@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="bus_compare_to_register">
+		<CBX_INST_ENTRY INSTANCE_NAME="|bus_compare_to_register|Block1:inst1|generate_0_to_7:inst|altsyncram:Mux7_rtl_0" CBX_FILE_NAME="altsyncram_c491.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
